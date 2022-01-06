@@ -1,0 +1,192 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+
+.border-image{
+    font-family: 'EB Garamond', serif;
+    font-size: 43px;
+    width: 450px;
+    color: #2C3539;
+    border-left: 5px solid red;
+    padding-left: 20px;
+    
+  
+}
+
+
+
+
+
+.middle-possition{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+}
+
+.anchor-button{
+    text-decoration: none;
+    background-color: coral;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+   
+}
+
+.person img{
+    width: 300px;
+    height: 350px;
+    margin-left: 150px;
+}
+
+.background{
+    height: 300px;
+    width: 400px;
+    float: left;
+    border-radius: 15px;
+    margin: 20px;
+ 
+}
+
+.background img{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.background h2{
+    text-align: center;
+}
+
+.background p{
+    text-align: justify;
+    padding: 10px;
+}
+
+#color-1{
+    background: cornsilk;
+}
+
+#color-2{
+    background: darkkhaki;
+}
+
+#color-3{
+    background: khaki;
+}
+
+
+p{
+    margin-bottom: 100px;
+}
+
+.image-part img{
+    height: 400px;
+    width: 400px;
+}
+
+.paragraph-part{
+    padding: 30px;
+
+}
+
+
+
+.paragraph-part h1{
+    font-size: 40px;
+    font-family: 'Abril Fatface', cursive;
+    
+}
+
+.paragraph-part p{
+    margin-bottom: 30px;
+}
+
+.section1-bg{
+    background-image: url(img/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size:20%;
+    background-position: 10% 50%;
+
+
+}
+
+.section2-bg{
+    background-image: url(img/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size:20%;
+    background-position: 92% 70%;
+    height: 600px;
+}
+
+.footer{
+    width: 100%;
+    background: #2C3539 ;
+    height: 150px;
+}
+
+.footer h1{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: lavender;
+    font-size: 35px;
+    padding-top: 30px;
+    margin: 0;
+   
+   
+}
+
+.footer p{
+    color: lavender;
+    text-align: center;
+   
+}
+
+.skill-size{
+    background: honeydew;
+    margin: 30px;
+    height: 270px;
+    width: 210px;
+}
+
+.skill img{
+    height: 350px;
+    width: 350px;
+}
+
+.skill-size img{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+   
+}
+
+.skill-size h3{
+    padding: 15px;
+}
+
+.experience h1{
+    font-size: 45px;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    margin: 0;
+    color: #2C3539;  
+}
+
+.last-bg{
+    width: 100%;
+    height: 270px;
+    background-image: url(img/shapes/lej.png);
+    background-repeat: no-repeat;
+  
+}
